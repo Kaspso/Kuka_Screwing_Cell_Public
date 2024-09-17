@@ -1,0 +1,4 @@
+The normal screw type have the letter 'A'.
+The abnormely have the letter 'B'.
+
+The abnormely have eksample be under screwed, over screwed, missing screw or slipped screw.
